@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.tar.gz
+out/
+out2/
+top5/
+remote_final.webp
+entry_300.png
+
+# local/test artifacts and kit
+kit/
+kit.tar.gz
+src/
+out_test/
+out_test2/
+generate_entry.py.bak
