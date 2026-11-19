@@ -22,7 +22,7 @@ Gambar bergaya halaman depan surat kabar dengan tajuk tanggal **"WEDNESDAY 18 NO
 - **Seni & Budaya:** Lukisan Vincent van Gogh *Blossoming Chestnut Trees* (1890) terjual seharga US$190,4 juta di Sotheby’s, New York — rekor lelang baru untuk Van Gogh.
 - **Sains & Antariksa:** Wahana NASA *Voyager 1* menjadi objek buatan manusia pertama yang mencapai jarak satu hari-cahaya dari Bumi, 49 tahun setelah peluncurannya (1977).
 
-Panel utama mencakup 27 berita tambahan di tiga kolom (Konflik & Keamanan; Protes, Hukum & Kriminalitas; Seni, Sains & Olahraga), ditambah pita "Also on 18 November" — total 32 berita dari berbagai wilayah dan bidang (Eropa, Timur Tengah, Asia, Afrika, Amerika, sains, seni, olahraga, bisnis/protes). Angka kunci yang ditonjolkan: $190,4M (lelang Van Gogh), 1 light-day (Voyager 1), 8 dismissals (rekor Litton Das), 300 penangkapan, 55 pabrik ditutup, dan pemblokiran jalan raya dalam protes pekerja garmen Bangladesh.
+Panel utama mencakup 36 berita tambahan di tiga kolom (Konflik & Keamanan; Protes, Hukum & Kriminalitas; Seni, Sains & Olahraga), ditambah pita "UTC Timeline 18 Nov 2026" (8 event kronologis) dan "Also on 18 November" — total 48 berita terverifikasi dari berbagai wilayah dan bidang (Eropa, Timur Tengah, Asia, Afrika, Amerika, sains, seni, olahraga, bisnis/protes). Angka kunci yang ditonjolkan: $190,4M (lelang Van Gogh), 1 light-day (Voyager 1), 8 dismissals (rekor Litton Das), 300 penangkapan, 55 pabrik ditutup, dan pemblokiran jalan raya dalam protes pekerja garmen Bangladesh.
 
 ## Sumber berita
 
